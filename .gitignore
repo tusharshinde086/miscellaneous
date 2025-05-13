@@ -1,3 +1,21 @@
+
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Uploaded files or temp storage (if any)
+uploads/
+tmp/
+
 # Logs
 logs
 *.log
